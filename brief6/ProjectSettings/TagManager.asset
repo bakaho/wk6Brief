@@ -41,3 +41,33 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: leafSmallBelow
+    uniqueID: 98763513
+    locked: 0
+  - name: treeSmall
+    uniqueID: 1263174075
+    locked: 0
+  - name: leafSmallAbove1
+    uniqueID: 2894319303
+    locked: 0
+  - name: leafSmallAbove2
+    uniqueID: 3551334385
+    locked: 0
+  - name: cliffBelow
+    uniqueID: 3538190967
+    locked: 0
+  - name: leafBigBelow1
+    uniqueID: 1399838833
+    locked: 0
+  - name: treeBig
+    uniqueID: 2115110289
+    locked: 0
+  - name: leafBigAbove1
+    uniqueID: 2155987299
+    locked: 0
+  - name: leafBigAbove2
+    uniqueID: 1965354081
+    locked: 0
+  - name: cliffAbove
+    uniqueID: 169836121
+    locked: 0
