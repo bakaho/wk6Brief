@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - leaves
   layers:
   - Default
   - TransparentFX
@@ -64,6 +65,9 @@ TagManager:
     locked: 0
   - name: leafBigAbove1
     uniqueID: 2155987299
+    locked: 0
+  - name: player
+    uniqueID: 1931070289
     locked: 0
   - name: leafBigAbove2
     uniqueID: 1965354081
